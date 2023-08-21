@@ -1,0 +1,13 @@
+{
+  "$schema": "https://wails.io/schemas/config.v2.json",
+  "name": "go_chatbot",
+  "outputfilename": "go_chatbot",
+  "frontend:install": "npm install",
+  "frontend:build": "npm run build",
+  "frontend:dev:watcher": "npm run dev",
+  "frontend:dev:serverUrl": "auto",
+  "author": {
+    "name": "jssuzuki1",
+    "email": "103464573+jssuzuki1@users.noreply.github.com"
+  }
+}
